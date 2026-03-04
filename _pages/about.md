@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD student @ MIT; affiliated with <a href='https://lids.mit.edu/about-lids' target='_blank' rel='noopener'>LIDS</a>; interested in generative AI; currently building diffusion models and health applications"
+subtitle: "PhD student @ MIT; interested in generative AI; currently building diffusion models and health applications"
 
 profile:
   align: left
