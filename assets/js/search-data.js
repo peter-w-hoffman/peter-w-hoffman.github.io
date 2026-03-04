@@ -64,7 +64,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-legalchat",
           title: 'LegalChat',
-          description: "Your personal legal chatbot",
+          description: "Your personal legal chatbot.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-triple-ii",
