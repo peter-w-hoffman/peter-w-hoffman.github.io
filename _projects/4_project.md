@@ -20,4 +20,4 @@ The gig economy has grown quickly, but health coverage still assumes a tradition
 
 ### Learn more
 
-Learn more at [Triple Health](https://get-triple.com/prototype).
+This is a joint collaboration with Juliana Ochacher. Learn more at [Triple Health](https://get-triple.com/prototype).
