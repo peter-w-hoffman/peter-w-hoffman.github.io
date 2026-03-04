@@ -26,7 +26,7 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-I am a second-year PhD student at MIT advised by Professor Pablo Parrilo and Professor Gabriele Farina. I am interested in problems at the intersection of generative artificial intelegence, stochastic differential equations, and deep learning, particularly those related to diffusion models and high performance computing.
+Hello! I am a second-year PhD student at MIT advised by Professor Pablo Parrilo and Professor Gabriele Farina. I am interested in problems at the intersection of generative artificial intelegence, stochastic differential equations, and deep learning, particularly those related to diffusion models and high performance computing.
 
 I'm passionate about working on questions whose solutions expand humanities collective ability. Outside of my theorhetical work, I'm also passionate about public health; in the past I've built [Triple](https://get-triple.com), an analytics platform designed to improve preventative health measuers, and am currently buidling [Triple II](https://get-triple.com/prototype) to use AI to tailor traditional health isurance to the gig economy. I've also built AI chatbots, such as [LegalChat](https://get-triple.com/prototype), which we designed to help bridge the legal information asymmetry in legal contracts.
 
