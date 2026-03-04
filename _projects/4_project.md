@@ -4,6 +4,7 @@ title: Triple II
 description: We tailor health insurance for the gig economy.
 img: assets/img/12.jpg
 importance: 2
+project_date: 2026-01-04
 related_publications: false
 ---
 
