@@ -59,7 +59,7 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "projects-triple-health",
           title: 'Triple Health',
-          description: "Here is a description of Triple",
+          description: "We improve preventative measures in public health.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-4",
