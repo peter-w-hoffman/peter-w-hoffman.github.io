@@ -62,9 +62,9 @@ ninja.data = [{
           description: "We improve preventative measures in public health.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-triple-ii",
+          title: 'Triple II',
+          description: "We tailor health insurance for the gig economy.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "teachings-data-science-fundamentals",
