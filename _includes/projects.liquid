@@ -16,7 +16,9 @@
         <p class="card-text">{{ project.description }}</p>
 
         {% if project.project_date %}
-          <p class="card-text project-date">{{ project.project_date }}</p>
+          <p class="card-text project-date">
+            {{ project.project_date | date: "%B %-d, %Y" }}
+          </p>
         {% endif %}
 
         <div class="row ml-1 mr-1 p-0">
