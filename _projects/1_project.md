@@ -4,7 +4,7 @@ title: Triple Health
 description: We supercharge preventative health measures.
 img: assets/img/12.jpg
 importance: 1
-project_date: 2025-09-017
+project_date: 2025-10-17
 related_publications: false
 ---
 
