@@ -127,6 +127,13 @@ ninja.data = [{
           window.open("mailto:%68%6F%66%66%6D%61%6E%70@%6D%69%74.%65%64%75", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/peter-w-hoffman", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
