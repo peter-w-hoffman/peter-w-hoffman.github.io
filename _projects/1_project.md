@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Triple Health
-description: We improve preventative measures in public health.
+description: We supercharge preventative health measures.
 img: assets/img/12.jpg
 importance: 1
 related_publications: false
