@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LegalChat
-description: Your personal legal chatbot
+description: Your personal legal chatbot.
 img: assets/img/legalchat.jpg
 importance: 3
 related_publications: false
