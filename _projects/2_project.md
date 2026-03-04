@@ -4,6 +4,7 @@ title: LegalChat
 description: Your personal legal chatbot.
 img: assets/img/legalchat.jpg
 importance: 3
+project_date: 2025-08-01
 related_publications: false
 ---
 
