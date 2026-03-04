@@ -22,4 +22,4 @@ More than 3 in 4 U.S. adults have a chronic condition. With healthcare costs soa
 
 ### Learn more
 
-This Learn more at [Triple Health](https://get-triple.com).
+This is a joint collaboration with Juliana Ochacher. Learn more at [Triple Health](https://get-triple.com).
