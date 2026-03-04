@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD student @ MIT; interested in generative AI; currently building diffusion models and health applications"
+subtitle: "PhD student at MIT; interested in generative AI; currently building diffusion models and health applications"
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Building 45, MIT</p>
-    <p>Cambridge, MA</p>
+    <p>MIT LIDS, Building 45</p>
+    <p>Cambridge, MA 02139, US</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,11 +26,13 @@ latest_posts:
   limit: # leave blank to include all the blog posts
 ---
 
-Hello! I am a second-year PhD student at MIT advised by Professor Pablo Parrilo and Professor Gabriele Farina. I am interested in problems at the intersection of generative artificial intelegence, stochastic differential equations, and deep learning, particularly those related to diffusion models and high performance computing.
+Hello! I am a 2nd-year PhD student at MIT LIDS working with Pablo Parrilo and Gabriele Farina. I am interested in problems at the intersection of generative artificial intelegence, stochastic differential equations, and deep learning, particularly those related to diffusion models and high performance computing.
 
-I'm passionate about working on questions whose solutions expand humanities collective ability. Outside of my theorhetical work, I'm also passionate about public health; in the past I've built [Triple](https://get-triple.com), an analytics platform designed to improve preventative health measuers, and am currently buidling [Triple II](https://get-triple.com/prototype) to use AI to tailor traditional health isurance to the gig economy. I've also built AI chatbots, such as [LegalChat](https://get-triple.com/prototype), which we designed to help bridge the legal information asymmetry in legal contracts.
+I'm passionate about working on questions whose solutions expand humanities collective ability. Outside of my theorhetical work, I'm also passionate about public health; in the past I've built [Triple](https://get-triple.com), an analytics platform designed to improve preventative health measuers, and am currently buidling [Triple II](https://get-triple.com/prototype) to use AI to tailor traditional health isurance to the gig economy. I've also built AI chatbots in the past, such as [LegalChat](https://get-triple.com/prototype), which we designed to help bridge the legal information asymmetry in legal contracts.
 
-Previously, I completed my undergratuate in Mathematics also at MIT where I worked with Professor Pablo Parrilo on optimization solutions to the [Blotto Game](https://en.wikipedia.org/wiki/Blotto_game). During my undergraduate, I was a member of the MIT varisty [sailing team](https://mitathletics.com/sports/sailing) and spend time as a quantitative researcher at [Point72](https://point72.com) and [CitiBank](https://www.citigroup.com/global/businesses/markets). 
+I am also very involved with teaching, both around MIT and otherwise. In the past, I've helped design and teach a [6.S095](https://www.eecs.mit.edu/academics/iap-offerings/iap-2023/), a student-run lecture series at MIT covering advanced problem solving techniques in probability, random variables, and stochastic processes. I also frequently publish notes on a variety of topics, which you can find HERE.
 
-If I'm not writing math or code, you can probably find me painting, skiing, or gardening.
+Previously, I completed my undergratuate in Mathematics also at MIT where I worked with Professor Pablo Parrilo on optimization solutions to the [Blotto Game](https://en.wikipedia.org/wiki/Blotto_game). During my undergraduate, I was a member of the MIT varisty [sailing team](https://mitathletics.com/sports/sailing) and spent time as a quantitative researcher at [Point72](https://point72.com) and [CitiBank](https://www.citigroup.com/global/businesses/markets). 
+
+If I'm not writing math or code, you can probably find me painting, gardening with family, or skiing with friends. Feel free to reach out at hoffmanp@mit.edu
  
