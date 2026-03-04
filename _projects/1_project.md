@@ -4,6 +4,7 @@ title: Triple Health
 description: We supercharge preventative health measures.
 img: assets/img/12.jpg
 importance: 1
+project_date: 2025-09-017
 related_publications: false
 ---
 
@@ -21,4 +22,4 @@ More than 3 in 4 U.S. adults have a chronic condition. With healthcare costs soa
 
 ### Learn more
 
-Learn more at [Triple Health](https://get-triple.com).
+This Learn more at [Triple Health](https://get-triple.com).
