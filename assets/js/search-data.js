@@ -62,6 +62,11 @@ ninja.data = [{
           description: "We supercharge preventative health measures.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-legalchat",
+          title: 'LegalChat',
+          description: "Your personal legal chatbot",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-triple-ii",
           title: 'Triple II',
           description: "We tailor health insurance for the gig economy.",
