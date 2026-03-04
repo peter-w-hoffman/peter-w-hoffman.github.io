@@ -26,4 +26,4 @@ Contracts are everywhere—leases, employment offers, NDAs, vendor agreements—
 
 ### Learn more
 
-Learn more at [LegalChat](https://example.com).
+Feel free to check out our code at [LegalChat]([https://example.com](https://www.dropbox.com/scl/fo/p7au5vusy6yu6y2ya7ez7/AFXXQF7tWn6cKc0hr5XuBnQ?rlkey=76v8ji15imkyzr4gv4097zvhs&st=nue5fr3d&dl=0)).
