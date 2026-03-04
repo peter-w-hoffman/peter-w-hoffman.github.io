@@ -28,8 +28,9 @@ latest_posts:
 
 I am a second-year PhD student at MIT advised by Professor Pablo Parrilo and Professor Gabriele Farina. I am interested in problems at the intersection of generative artificial intelegence, stochastic differential equations, and deep learning, particularly those related to diffusion models and high performance computing.
 
-I'm passionate about working on questions whose solutions expand humanities collective ability. Outside of my theorhetical work, I'm also passionate about public health; in the past I've built AI chatbots and [Triple](https://example.com), an analytics platform designed to improve preventative health measuers. 
+I'm passionate about working on questions whose solutions expand humanities collective ability. Outside of my theorhetical work, I'm also passionate about public health; in the past I've built [Triple](https://get-triple.com), an analytics platform designed to improve preventative health measuers, and am currently buidling [Triple II](https://get-triple.com/prototype) to use AI to tailor traditional health isurance to the gig economy. 
 
-Previously, I completed my undergratuate in Mathematics also at MIT where I worked with Professor Pablo Parrilo on optimization solutions to the Blotto Game. During my undergraduate, I was a member of the MIT varisty sailing team and spend time as a quantitative researcher at CitiBank and Point72. 
+Previously, I completed my undergratuate in Mathematics also at MIT where I worked with Professor Pablo Parrilo on optimization solutions to the [Blotto Game](https://en.wikipedia.org/wiki/Blotto_game). During my undergraduate, I was a member of the MIT varisty [sailing team](https://mitathletics.com/sports/sailing) and spend time as a quantitative researcher at [Point72](https://point72.com) and [CitiBank](https://www.citigroup.com/global/businesses/markets). 
 
+If I'm not writing math or code, you can probably find me painting, skiing, or gardening.
  
