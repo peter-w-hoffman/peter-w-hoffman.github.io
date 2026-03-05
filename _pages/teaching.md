@@ -40,7 +40,6 @@ I keep a set of notes on material I use for research, find interesting, or think
 
 - **Grader — Combinatorial Analysis (18.211)** *(Sep 2023 – Dec 2023)*
   - Graded assignments for advanced undergraduate combinatorics (Prof. Michael Simkin)
- 
-  - 
+
 ---
 
