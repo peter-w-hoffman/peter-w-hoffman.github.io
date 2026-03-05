@@ -8,7 +8,7 @@ nav_order: 6
 calendar: false
 ---
 
-## Course notes (PDF)
+## Course notes
 I keep a set of notes on material I use for research, find interesting, or think others might benefit from. I also update these notes from time to time. Feel free to reach out if you spot any errors, find these useful, or have any suggestions on future topics!
 
 - [Analytics]( {{ "/assets/pdf/analytics.pdf" | relative_url }} )
@@ -19,8 +19,28 @@ I keep a set of notes on material I use for research, find interesting, or think
 - [Statistics]( {{ "/assets/pdf/statistics.pdf" | relative_url }} )
 - [Stochastic Differential Equations]( {{ "/assets/pdf/sdes.pdf" | relative_url }} )
 
----
+
 
 ## Classes taught
 
-{% include courses.liquid %}
+### Teaching in Optimization
+
+- **Teaching Assistant — Optimization Methods (15.053)** *(Feb 2023 – Jun 2023)*
+  - Led weekly recitations for ~50 students (Prof. James Orlin)
+  - Received an average rating of **6.9 / 7.0**
+
+- **Instructor — Optimization in Graph Theory** *(Jun 2022 – Aug 2022)*
+  - Self-organized MIT summer course on applications of optimization to graph coloring, shortest paths, and maximum independent sets
+
+### Teaching in Combinatorics and Probability
+
+- **Instructor — Intermediate Probability (6.S095)** *(Dec 2021 – Present)*
+  - Student-run for-credit class supervised by Prof. Guy Bresler covering probabilistic methods
+  - ~120 total annual enrollment; average rating **6.9 / 7.0**
+
+- **Grader — Combinatorial Analysis (18.211)** *(Sep 2023 – Dec 2023)*
+  - Graded assignments for advanced undergraduate combinatorics (Prof. Michael Simkin)
+ 
+  - 
+---
+
