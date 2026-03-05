@@ -2,14 +2,14 @@
 layout: page
 permalink: /teaching/
 title: notes and teaching
-description: Course notes and classes taught
+description: 
 nav: true
 nav_order: 6
 calendar: false
 ---
 
 ## Course notes
-I keep a set of notes on material I use for research, find interesting, or think others might benefit from. I also update these notes from time to time. Feel free to reach out if you spot any errors, find these useful, or have any suggestions on future topics!
+I keep a set of notes on material I use in my research, find interesting, or think others might benefit from. I also update these notes from time to time. Feel free to reach out if you spot any errors, find these useful, or have any suggestions on future topics!
 
 - [General math tools]( {{ "/assets/pdf/general.pdf" | relative_url }} )
 - [Deep Learning]( {{ "/assets/pdf/deeplearning.pdf" | relative_url }} )
