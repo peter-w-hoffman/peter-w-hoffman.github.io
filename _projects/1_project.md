@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Triple Health
-description: We supercharge preventative health measures.
+description: We supercharge preventative health measures. 
 img: assets/img/12.jpg
 importance: 1
 project_date: 2025-10-17
 related_publications: false
 ---
 
-### What is Triple?
+### What is [Triple](https://get-triple.com)?
 
 Triple is an analytics platform that enables public health officials, community organizers, and health coordinators to improve the effectiveness of public health prevention. Triple works differently by matching **the right person** with **the right intervention** at **the right time**.
 
