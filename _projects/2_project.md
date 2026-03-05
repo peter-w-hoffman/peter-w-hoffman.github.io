@@ -19,25 +19,32 @@ Contracts are everywhere—leases, employment offers, NDAs, vendor agreements—
 > **The solution:** LegalChat helps users quickly identify key terms, risks, and obligations, and provides structured summaries so they can make more informed decisions.
 
 ### What it does
-
+Users simply upload a contract into LegalChat, a lightweight and finetuned LLM. It then:
 - Summarizes long contracts into key points
 - Flags potentially important clauses (e.g., termination, liability, confidentiality)
 - Explains terminology in plain English
 - Helps users form better questions for a lawyer (when legal advice is needed)
 
-{% include figure.liquid
-  path="assets/img/legalchatviz.jpg"
-  alt="LegalChat screenshot"
-  class="img-fluid rounded"
-  loading="lazy"
-%}
+<div class="mx-auto my-4" style="max-width: 700px;">
+  {% include figure.liquid
+    path="assets/img/legalchatviz.jpg"
+    alt="LegalChat screenshot"
+    class="img-fluid rounded"
+    loading="lazy"
+  %}
+</div>
 
-{% include figure.liquid
-  path="assets/img/response.jpg"
-  alt="LegalChat screenshot"
-  class="img-fluid rounded"
-  loading="lazy"
-%}
+<div class="mx-auto my-4" style="max-width: 700px;">
+  {% include figure.liquid
+    path="assets/img/response.jpg"
+    alt="LegalChat screenshot"
+    class="img-fluid rounded"
+    loading="lazy"
+  %}
+</div>
+
+
+
 ### Learn more
 
 This was a joint collaboration with Carol Gao and Cenhao Zhu. Feel free to check out our code at [LegalChat](https://github.com/peter-w-hoffman/LegalChat).
