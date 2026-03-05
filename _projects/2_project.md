@@ -8,7 +8,7 @@ project_date: 2025-08-01
 related_publications: false
 ---
 
-### What is LegalChat?
+### What is [LegalChat](https://github.com/peter-w-hoffman/LegalChat)?
 
 LegalChat is an AI-powered application that helps people understand legal contracts by translating dense clauses into clear explanations. It’s designed to bridge the legal information asymmetry that often exists between individuals and the documents they’re asked to sign.
 
