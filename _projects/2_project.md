@@ -32,6 +32,12 @@ Contracts are everywhere—leases, employment offers, NDAs, vendor agreements—
   loading="lazy"
 %}
 
+{% include figure.liquid
+  path="assets/img/response.jpg"
+  alt="LegalChat screenshot"
+  class="img-fluid rounded"
+  loading="lazy"
+%}
 ### Learn more
 
 This was a joint collaboration with Carol Gao and Cenhao Zhu. Feel free to check out our code at [LegalChat](https://github.com/peter-w-hoffman/LegalChat).
