@@ -32,7 +32,7 @@ I'm passionate about working on questions whose solutions expand humanities coll
 
 I am also very involved with teaching, both around MIT and otherwise. In the past, I've helped design and teach a [6.S095](https://www.eecs.mit.edu/academics/iap-offerings/iap-2023/), a student-run lecture series at MIT covering advanced problem solving techniques in probability, random variables, and stochastic processes. I also frequently publish notes on a variety of topics, which you can find [here](https://peter-w-hoffman.github.io/teaching/).
 
-Previously, I completed my undergratuate in Mathematics also at MIT where I worked Prof. Pablo Parrilo on optimization solutions to the [Blotto Game](https://en.wikipedia.org/wiki/Blotto_game). During my undergraduate, I was a member of the MIT varisty [sailing team](https://mitathletics.com/sports/sailing) and spent time as a quantitative researcher at [Point72](https://point72.com) and [CitiBank](https://www.citigroup.com/global/businesses/markets). 
+Previously, I completed my undergratuate in Mathematics also at MIT where I worked Prof. Pablo Parrilo on optimization algorithms. During my undergraduate, I was a member of the MIT varisty [sailing team](https://mitathletics.com/sports/sailing) and spent time as a quantitative researcher at [Point72](https://point72.com) and [CitiBank](https://www.citigroup.com/global/businesses/markets). 
 
 If I'm not writing math or code, you can probably find me painting, gardening with family, or skiing with friends. Feel free to reach out at hoffmanp@mit.edu
  
