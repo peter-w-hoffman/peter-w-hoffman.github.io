@@ -8,7 +8,7 @@ project_date: 2026-01-04
 related_publications: false
 ---
 
-### What is Triple II?
+### What is [Triple II](https://get-triple.com/prototype)?
 
 **Triple II** is an initiative to design health insurance that actually fits the realities of gig work: variable income, fluctuating hours, and changing eligibility. We’re building tools to make coverage simpler to access and better aligned with gig workers. 
 
