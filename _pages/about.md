@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD student at MIT"
+subtitle: "PhD student at MIT working on generative artificial intelligence"
 
 profile:
   align: right
