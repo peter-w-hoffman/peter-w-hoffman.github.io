@@ -196,6 +196,7 @@ exclude:
   - Gemfile.lock
   - INSTALL.md
   - LICENSE
+  - _pages/cv.md
   - lighthouse_results/
   - _news/announcement_1.md
   - _news/announcement_2.md
