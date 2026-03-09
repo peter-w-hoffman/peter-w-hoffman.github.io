@@ -10,7 +10,7 @@ related_publications: false
 
 ### What is [Triple II](https://get-triple.com/prototype)?
 
-**Triple II** is an ongoing project to design tools to tailer health insurance for the realities of gig work, such as variable income, fluctuating hours, and changing eligibility. 
+**Triple II** is an ongoing project to design tools to tailer health insurance for the realities of gig work, such as variable income, fluctuating hours, and changing eligibility. Current health insurance isn't tailored to these realities; we're working to change that. 
 
 ### Learn more
 
