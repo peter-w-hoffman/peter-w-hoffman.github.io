@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "PhD student at MIT working on generative artificial intelligence"
+subtitle:
 
 profile:
   align: right
@@ -25,9 +25,9 @@ latest_posts:
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: # leave blank to include all the blog posts
 ---
-Hello! I am a 2nd-year PhD student at [MIT LIDS](https://lids.mit.edu/about-lids) working with [Pablo Parrilo](https://www.mit.edu/~parrilo/) and [Gabriele Farina](https://www.mit.edu/~gfarina/about/). I am interested in problems at the intersection of generative artificial intelligence, stochastic differential equations, and deep learning, particularly those related to diffusion models and high-performance computing.
+I'm a 2nd-year PhD student at [MIT LIDS](https://lids.mit.edu/about-lids) working on generative artificial intelligence with [Pablo Parrilo](https://www.mit.edu/~parrilo/) and [Gabriele Farina](https://www.mit.edu/~gfarina/about/). I am mainly interested in problems at the intersection of deep learning, probability, and stochastic differential equations, particularly those related to diffusion models and optimization.
 
-Outside of my theoretical work, I'm passionate about public health; in the past I've built [Triple](https://get-triple.com), an analytics platform designed to improve preventive health measures, and am currently building [Triple II](https://get-triple.com/prototype) to use AI to tailor traditional health insurance to the gig economy. I've also built AI chatbots in the past, such as [LegalChat](https://github.com/peter-w-hoffman/LegalChat), which we designed to help bridge information asymmetry in legal contracts.
+Outside of my theoretical work, I've built [Triple](https://get-triple.com), an analytics platform designed to improve preventive health measures, and am currently building [Triple II](https://get-triple.com/prototype) to use AI to tailor traditional health insurance to the gig economy. Before that, I worked on legal chatbots.
 
 I am also very involved with teaching, both around MIT and otherwise. In the past, I've helped design and teach [6.S095](https://www.eecs.mit.edu/academics/iap-offerings/iap-2023/), a student-run lecture series at MIT covering advanced problem-solving techniques in probability, random variables, and stochastic processes. I also frequently publish notes on a variety of topics, which you can find [here](https://peter-w-hoffman.github.io/teaching/).
 
