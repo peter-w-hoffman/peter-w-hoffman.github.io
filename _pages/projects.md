@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Here are a few of the things I've been working on lately.
-nav: true
+nav: false
 nav_order: 3
 horizontal: false
 ---
