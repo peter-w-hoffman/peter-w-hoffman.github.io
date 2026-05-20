@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: notes and teaching
+title: Notes and Teaching
 description: 
 nav: true
 nav_order: 6
