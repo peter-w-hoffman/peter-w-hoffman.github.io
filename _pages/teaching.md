@@ -25,14 +25,20 @@ I keep a set of notes on material I use in my research, find interesting, or thi
 
 #### Teaching in Optimization
 
-- **Teaching Assistant — Optimization Methods (15.053)** *(Feb 2023 – Jun 2023)*
-  - Led weekly recitations for ~50 students (Prof. James Orlin)
+- **Undergraduate Teaching Assistant — Optimization Methods (15.053)** *(Feb 2023 – Jun 2023)*
+  - Led weekly recitations for a class of ~50 students, taught by Prof. James Orlin
   - Received an average rating of **6.9 / 7.0**
 
 - **Instructor — Optimization in Graph Theory** *(Jun 2022 – Aug 2022)*
-  - Self-organized MIT summer course on applications of optimization to graph coloring, shortest paths, and maximum independent sets
+  - Self-organized MIT summer course on applications of optimization methods to graph-theoretic problems
+  - Covered algorithms for problems such as graph coloring, shortest paths, and maximum independent sets
 
-#### Teaching in Combinatorics and Probability
+#### Teaching in probability and statistics
+
+- **Graduate Teaching Assistant — Modern Mathematical Statistics (6.7730)** *(Sept 2025 – Dec 2025)*
+  - Held weekly office hours, graded assignments, helped produce lecture notes for class of ~25 students taught by Prof. Stephen Bates
+  - Covered statistical decision theory and fundamentals uncertainty modeling
+  - Topics include optimal estimation, hypothesis testing, and Bayesian versus minimax optimality
 
 - **Instructor — Intermediate Probability (6.S095)** *(Dec 2021 – Present)*
   - Student-run for-credit class supervised by Prof. Guy Bresler covering probabilistic methods
