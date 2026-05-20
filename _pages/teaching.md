@@ -23,15 +23,6 @@ I keep a set of notes on material I use in my research, find interesting, or thi
 
 ## Classes taught
 
-#### Teaching in Optimization
-
-- **Undergraduate Teaching Assistant — Optimization Methods (15.053)** *(Feb 2023 – Jun 2023)*
-  - Led weekly recitations for a class of ~50 students, taught by Prof. James Orlin
-  - Received an average rating of **6.9 / 7.0**
-
-- **Instructor — Optimization in Graph Theory** *(Jun 2022 – Aug 2022)*
-  - Self-organized MIT summer course on applications of optimization methods to graph-theoretic problems
-  - Covered algorithms for problems such as graph coloring, shortest paths, and maximum independent sets
 
 #### Teaching in probability and statistics
 
@@ -46,6 +37,17 @@ I keep a set of notes on material I use in my research, find interesting, or thi
 
 - **Grader — Combinatorial Analysis (18.211)** *(Sep 2023 – Dec 2023)*
   - Graded assignments for advanced undergraduate combinatorics (Prof. Michael Simkin)
+
+
+#### Teaching in optimization
+
+- **Undergraduate Teaching Assistant — Optimization Methods (15.053)** *(Feb 2023 – Jun 2023)*
+  - Led weekly recitations for a class of ~50 students, taught by Prof. James Orlin
+  - Received an average rating of **6.9 / 7.0**
+
+- **Instructor — Optimization in Graph Theory** *(Jun 2022 – Aug 2022)*
+  - Self-organized MIT summer course on applications of optimization methods to graph-theoretic problems
+  - Covered algorithms for problems such as graph coloring, shortest paths, and maximum independent sets
 
 ---
 
