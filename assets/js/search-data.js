@@ -10,7 +10,7 @@ ninja.data = [{
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "My current research involves diffusion models for image generation. Here are a few things I&#39;ve worked on in the past.",
           section: "Navigation",
           handler: () => {
