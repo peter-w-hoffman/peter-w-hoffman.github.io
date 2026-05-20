@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: My current research involves diffusion models for image generation. Here are a few things I've worked on in the past. 
 nav: true
 nav_order: 2
