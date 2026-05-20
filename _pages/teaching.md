@@ -8,7 +8,7 @@ nav_order: 6
 calendar: false
 ---
 
-## Course notes
+## Research notes
 I keep a set of notes on material that I use in my research, find interesting, or think others might benefit from. I also update these notes from time to time. Feel free to reach out if you spot any errors, find these useful, or have any suggestions on future topics.
 
 - [General math tools]( {{ "/assets/pdf/general.pdf" | relative_url }} )
